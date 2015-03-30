@@ -1,0 +1,20 @@
+{
+	"author":"Pete Markiewicz",
+	"name":"trello_google_alerts",
+	"description":"attach Google Keyword search results for keywords in a Trello Board",
+	"version":"0.0.1",
+	"repository": {
+		"type":"git",
+		"url":"git://github.com/pindiespace/google-alerts"
+	},
+	"dependencies": {
+		"trello_baseapp":"latest",
+		"express":"~2.5.9"
+	},
+	"devDependencies":{},
+	"optionalDependencies": {},
+	"engines":{
+		"node":"*"
+	}
+
+}
