@@ -3,7 +3,10 @@
 var config = JSON.parse(require('fs').readFileSync(__dirname +'/config.json', 'utf8'));
 
 //require trello_baseapp (oAuth)
-var app = require('trello_baseapp/lib/app')(config);
+//var app = require('trello_baseapp/lib/app')(config);
+
+var express = require('express');
+var app = express();
 
 //express server setup
 var alerts = require('./lib/app')(config);

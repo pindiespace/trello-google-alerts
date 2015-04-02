@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # trello-google-alerts
 Integrate trello boards with specified keywords in Google Alerts
 
@@ -15,6 +14,12 @@ Integrate trello boards with specified keywords in Google Alerts
 10.Responses also recorded
 
 # reference
+
+Trello baseapp for oAuth login
+https://www.npmjs.com/package/trello_baseapp
+
+Structure for Express apps
+http://www.terlici.com/2014/08/25/best-practices-express-structure.html
 
 Foundation npm
 https://www.npmjs.com/package/zurb-foundation-5

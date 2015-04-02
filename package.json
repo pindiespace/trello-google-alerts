@@ -8,19 +8,21 @@
 		"url":"git://github.com/pindiespace/trello-google-alerts.git"
 	},
 	"dependencies":{
-		"trello_baseapp":"latest",
 		"jade":"latest",
 		"connect-redis":"latest",
 		"connect-assets":"latest",
+		"node-trello":"latest",
+		"node-uuid":"latest",
+		"oauth":"latest",
 		"express":"latest",
-		"jade":"latest",
 		"node-compass":"latest",		
 		"redis":"latest"
 	},
 	"devDependencies": {},
 	"optionalDependencies":{},
 	"engines": {
-		"node": "latest"
+		"node":"latest",
+		"npm":"latest"
 	},
 	"author":"Pete Markiewicz",
 	"name":"trello_google_alerts",
@@ -29,15 +31,6 @@
 	"repository": {
 		"type":"git",
 		"url":"git://github.com/pindiespace/google-alerts"
-	},
-	"dependencies": {
-		"trello_baseapp":"latest",
-		"express":"~2.5.9"
-	},
-	"devDependencies":{},
-	"optionalDependencies": {},
-	"engines":{
-		"node":"*"
 	}
 
 }
