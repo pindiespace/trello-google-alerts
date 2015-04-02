@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"author":"Pete Markiewicz <pindiespace@gmail.com>",
 	"name":"trello-google-alerts",
 	"description":"Scan google alerts for keywords associated with board",
@@ -23,7 +22,6 @@
 	"engines": {
 		"node": "latest"
 	}
-=======
 	"author":"Pete Markiewicz",
 	"name":"trello_google_alerts",
 	"description":"attach Google Keyword search results for keywords in a Trello Board",
@@ -42,5 +40,4 @@
 		"node":"*"
 	}
 
->>>>>>> f5594b491f817e94ecb791dd8dbb51613bbc5d4f
 }
