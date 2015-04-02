@@ -21,7 +21,7 @@
 	"optionalDependencies":{},
 	"engines": {
 		"node": "latest"
-	}
+	},
 	"author":"Pete Markiewicz",
 	"name":"trello_google_alerts",
 	"description":"attach Google Keyword search results for keywords in a Trello Board",
