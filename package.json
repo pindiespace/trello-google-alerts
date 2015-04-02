@@ -1,0 +1,25 @@
+{
+	"author":"Pete Markiewicz <pindiespace@gmail.com>",
+	"name":"trello-google-alerts",
+	"description":"Scan google alerts for keywords associated with board",
+	"version":"0.0.1",
+	"repository":{
+		"type":"git",
+		"url":"git://github.com/pindiespace/trello-google-alerts.git"
+	},
+	"dependencies":{
+		"trello_baseapp":"latest",
+		"jade":"latest",
+		"connect-redis":"latest",
+		"connect-assets":"latest",
+		"express":"latest",
+		"jade":"latest",
+		"node-compass":"latest",		
+		"redis":"latest"
+	},
+	"devDependencies": {},
+	"optionalDependencies":{},
+	"engines": {
+		"node": "latest"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"port":"5000",
+        "trello": {
+                "token": {
+                        "name":"trello-google-alerts",
+                        "expiration":"never",
+                        "scope":"read,write"
+                },
+        "key":"871040ca3daf19475a37561764209707",
+        "secret":"0b8e6f75bc189c2323448707f9a7babbb46cb231c8646f8946a826640af2d900"
+        }
+}
