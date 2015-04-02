@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # trello-google-alerts
 Integrate trello boards with specified keywords in Google Alerts
 
@@ -30,4 +31,11 @@ https://trello.com/app-key
 Integrating Redis with Node
 @link http://www.sitepoint.com/using-redis-node-js/
 
+=======
+========================
+GOOGLE ALERTS IN TRELLO
+========================
+
+Reference URL:https://github.com/pindiespace/trello-google-alerts.git
+>>>>>>> f5594b491f817e94ecb791dd8dbb51613bbc5d4f
 
